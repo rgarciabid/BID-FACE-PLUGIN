@@ -1,0 +1,22 @@
+{
+  "name": "FaceBidEnrollment",
+  "version": "0.7.0",
+  "description": "A plugin for adding the ZoOm face enroll SDK to a Cordova application ",
+  "cordova": {
+    "id": "com.teknei.bid.FaceBidEnrollment",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "zoom",
+    "sdk",
+    "login",
+    "authentication",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "rgarcia",
+  "license": "ISC"
+}
