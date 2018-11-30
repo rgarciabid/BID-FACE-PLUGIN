@@ -49,4 +49,9 @@ startFaceEnrollment(){
  CONSIDERACIONES.
  	
 	El dispositivo debe encontrarse conectado a Internet.
+	El dispositivo debe proporcionar los siguientes permisos para el correcto funcionamiento del plugin, mismos que deben ser solicitados por la aplicación en la que sea implementado:
+		<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+		<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+		<uses-permission android:name="android.permission.CAMERA" />
+		<uses-permission android:name="android.permission.FLASHLIGHT" />
  
